@@ -1,2 +1,2 @@
-service:
-    uri: /api/v1/bancos/estado/{state}
+controller:
+  uri: /api/v1/sucursales/retrieve
