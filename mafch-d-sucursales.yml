@@ -1,2 +1,6 @@
 controller:
   uri: /api/v1/sucursales/retrieve
+
+services:
+  bancosEstado:
+    uri: /api/v1/bancos/estado/{state}
