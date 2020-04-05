@@ -1,4 +1,4 @@
-controller:
+controllerSucursales:
   uri: /api/v1/sucursales/retrieve
 
 services:
