@@ -1,4 +1,4 @@
-controllerSucursales:
+controller:
   uri: /api/v1/sucursales/retrieve
 
 services:
@@ -6,3 +6,5 @@ services:
     uri: /api/v1/bancos/estado/{state}
   bancosCoordenadas:
     uri: /api/v1/bancos/coordenadas
+  bancosZipcode:
+    uri: /api/v1/bancos/zipcode/{postalcode}
