@@ -4,3 +4,5 @@ controller:
 services:
   bancosEstado:
     uri: /api/v1/bancos/estado/{state}
+  bancosCoordenadas:
+    uri: /api/v1/bancos/coordenadas
