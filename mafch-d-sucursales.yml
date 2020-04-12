@@ -8,3 +8,8 @@ services:
     uri: /api/v1/bancos/coordenadas
   bancosZipcode:
     uri: /api/v1/bancos/zipcode/{postalcode}
+
+sucursales:
+  opcionEstado: estado
+  opcionCoordenadas: coordenadas
+  opcionZipcode: zipcode
