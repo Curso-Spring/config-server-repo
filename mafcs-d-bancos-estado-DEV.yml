@@ -7,3 +7,9 @@ spring:
 
 controller:
   uri: /api/v1/bancos/estado/{state}
+  
+headers:
+  uuid: uuid
+  countryCode: countryCode
+  channelId: channelId
+  businessCode: businessCode
