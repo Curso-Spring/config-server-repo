@@ -7,3 +7,10 @@ spring:
 
 controller:
   uri: /api/v1/bancos/zipcode/{postalcode}
+  
+headers:
+  accept: accept
+  uuid: uuid
+  countryCode: countryCode
+  channelId: channelId
+  businessCode: businessCode  
