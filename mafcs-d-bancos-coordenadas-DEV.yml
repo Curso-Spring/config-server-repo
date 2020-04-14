@@ -9,6 +9,7 @@ controller:
   uri: /api/v1/bancos/coordenadas
   
 headers:
+  accept: accept
   uuid: uuid
   countryCode: countryCode
   channelId: channelId
