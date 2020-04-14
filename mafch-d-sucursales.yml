@@ -13,3 +13,10 @@ sucursales:
   opcionEstado: estado
   opcionCoordenadas: coordenadas
   opcionZipcode: zipcode
+
+headers:
+  accept: accept
+  uuid: uuid
+  countryCode: countryCode
+  channelId: channelId
+  businessCode: businessCode
